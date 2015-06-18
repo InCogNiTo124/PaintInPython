@@ -1,0 +1,1 @@
+A simple paint coded in Python language for school project.
